@@ -6,7 +6,7 @@ var _ld_scriptEl = document.createElement('script');
    }
    let formElement = document.querySelector('Bookit');
 
-   LDBookItV2.initialize('00Dam000000dVaJ', 'Demo Request', 'ld_bookit_log_id', options);
+   LDBookItV2.initialize('00Dam000000dVaJEAU', 'Demo Request', 'ld_bookit_log_id', options);
    LDBookItV2.setFormProvider('custom');
    LDBookItV2.setFormTarget(formElement);
  });
