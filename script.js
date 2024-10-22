@@ -4,7 +4,7 @@ var _ld_scriptEl = document.createElement('script');
    let options = {
      autoSubmit : true,
    }
-   let formElement = document.querySelector('index.html');
+   let formElement = document.querySelector('Web2Lead');
 
    LDBookItV2.initialize('00Dam000000dVaJ', 'Demo Request', 'ld_bookit_log_id', options);
    LDBookItV2.setFormProvider('custom');
